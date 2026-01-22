@@ -1,4 +1,19 @@
-x64/
+# Visual Studio User Specific
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Build & Debug Folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+bld/
+bin/
+obj/
+
+# Visual Studio Cache
 .vs/
-Debug/
-*.slnx
